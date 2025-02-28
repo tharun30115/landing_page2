@@ -1,9 +1,12 @@
 
 
 const App = () => {
+
+  let heroData = []
+
   return (
     <div>
-      
+      hello
     </div>
   )
 }
