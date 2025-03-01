@@ -12,7 +12,7 @@ const Hero = ({heroData, setHeroCount, heroCount,setPlayStatus, playStatus}) => 
       </div>
 
       <div className="hero-explore">
-        <p>Explore the fratures</p>
+        <p>Explore the features</p>
         <img src={arrow_btn} alt="" />
       </div>
       <div className="hero-dot-play">
